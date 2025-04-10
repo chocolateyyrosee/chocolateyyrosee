@@ -1,12 +1,12 @@
 ## Hii 👋
-I'm SHovna, a highschool student, currently studying at Budhanilkantha School, Nepal.
+I'm Shovna, a highschool student, currently studying at Budhanilkantha School, Nepal.
 
 ##
 
-🔭 I’m currently working on just honing my basics.
-🌱 I’m currently learning Python.
-😄 Pronouns: She/Her
-⚡ Fun fact: I'm 15 right now so I can join uni when I'm only 16.
+- 🔭 I’m currently working on just honing my basics.
+- 🌱 I’m currently learning Python.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm 15 right now so I can join uni when I'm only 16.
 
   
 <!--
